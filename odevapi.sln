@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odevapi", "odevapi\odevapi.csproj", "{ADAE23EF-DCEA-4B7F-BF05-046436AC0595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADAE23EF-DCEA-4B7F-BF05-046436AC0595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAE23EF-DCEA-4B7F-BF05-046436AC0595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAE23EF-DCEA-4B7F-BF05-046436AC0595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAE23EF-DCEA-4B7F-BF05-046436AC0595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DC74D0A-9230-4C3A-B77A-4DACF343B85B}
+	EndGlobalSection
+EndGlobal
